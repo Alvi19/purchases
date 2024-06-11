@@ -14,9 +14,6 @@
                         <button id="tambah-data" class="btn btn-outline btn-info"><i
                                 class="fa-solid fa-square-plus"></i>Tambah
                             Data</button>
-                        <!-- Input Pencarian -->
-                        {{-- <input type="text" id="search" placeholder="Cari..."
-                            class="input input-bordered w-100 mb-4 mr-2"> --}}
                     </div>
 
                     <table class="table w-full mt-4">

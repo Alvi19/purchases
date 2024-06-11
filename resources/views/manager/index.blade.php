@@ -14,9 +14,6 @@
                         <button class="btn btn-outline btn-info"
                             onclick="window.location.href='{{ route('manager.history') }}'"><i
                                 class="fa-solid fa-clock-rotate-left"></i>History</button>
-                        <!-- Input Pencarian -->
-                        {{-- <input type="text" id="search" placeholder="Cari..."
-                            class="input input-bordered w-100 mb-4 mr-2"> --}}
                     </div>
 
                     <table class="table w-full mt-4">
