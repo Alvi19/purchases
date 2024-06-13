@@ -47,3 +47,8 @@ php artisan serve
 ## License
 
 -   Copyright © 2024 Moh Alvi Ridho.
+
+## Kontak
+
+-   Email : <a href="mailto:mohalviridho.com"></a>.
+-   Whatsapp : <a href="https://wa.me/089699759595"></a>.
