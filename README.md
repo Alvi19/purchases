@@ -46,4 +46,4 @@ php artisan serve
 
 ## License
 
--   Copyright © 2023 Moh Alvi Ridho.
+-   Copyright © 2024 Moh Alvi Ridho.
