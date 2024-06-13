@@ -50,5 +50,5 @@ php artisan serve
 
 ## Kontak
 
--   Email : <a href="mailto:mohalviridho.com"></a>.
--   Whatsapp : <a href="https://wa.me/089699759595"></a>.
+-   Email : <a href="mailto:mohalviridho.com">mohalviridho.com</a>.
+-   Whatsapp : <a href="https://wa.me/089699759595">089699759595</a>.
